@@ -1,100 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Stata</title>
-  <meta name="author" content="Tao">
-
-  
-  <meta name="description" content="Cocos2d中的关键类及继承关系(以下讨论只涉及iOS版本，不考虑mac版) CCDirector继承自UIViewController类 CCNode继承自NSObject CCLayer继承自CCNode CCScene继承自CCNode
-">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://qtao.com//">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <link href="/atom.xml" rel="alternate" title="Stata" type="application/atom+xml">
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Stata</a></h1>
-  
-    <h2>Notes</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:qtao.com/" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[Stata]]></title>
+  <link href="http://qtao.com//atom.xml" rel="self"/>
+  <link href="http://qtao.com//"/>
+  <updated>2013-06-09T16:34:30+08:00</updated>
+  <id>http://qtao.com//</id>
+  <author>
+    <name><![CDATA[Tao]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2013/02/23/cocos2d-v2-dot-0-source/">Cocos2d v2.0源码分析</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2013-02-23T14:15:00+08:00" pubdate data-updated="true">Feb 23<span>rd</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h2>Cocos2d中的关键类及继承关系(以下讨论只涉及iOS版本，不考虑mac版)</h2>
+  <entry>
+    <title type="html"><![CDATA[cocos2d v2.0源码分析]]></title>
+    <link href="http://qtao.com//blog/2013/02/23/cocos2d-v2-dot-0-source/"/>
+    <updated>2013-02-23T14:15:00+08:00</updated>
+    <id>http://qtao.com//blog/2013/02/23/cocos2d-v2-dot-0-source</id>
+    <content type="html"><![CDATA[<h2>Cocos2d中的关键类及继承关系(以下讨论只涉及iOS版本，不考虑mac版)</h2>
 
 <p><code>CCDirector</code>继承自<code>UIViewController</code>类</p>
 
@@ -103,42 +27,15 @@
 <p><code>CCLayer</code>继承自<code>CCNode</code></p>
 
 <p><code>CCScene</code>继承自<code>CCNode</code></p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/10/26/expressjs-mongoose/">Expressjs及mongoose入门</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-10-26T12:04:00+08:00" pubdate data-updated="true">Oct 26<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h2>expressjs 调试</h2>
+  <entry>
+    <title type="html"><![CDATA[expressjs及mongoose入门]]></title>
+    <link href="http://qtao.com//blog/2012/10/26/expressjs-mongoose/"/>
+    <updated>2012-10-26T12:04:00+08:00</updated>
+    <id>http://qtao.com//blog/2012/10/26/expressjs-mongoose</id>
+    <content type="html"><![CDATA[<h2>expressjs 调试</h2>
 
 <p>如果使用</p>
 
@@ -150,78 +47,24 @@
 <pre><code>$ sudo npm install supervisor -g
 $ supervisor app.js
 </code></pre>
-</div>
+]]></content>
+  </entry>
   
+  <entry>
+    <title type="html"><![CDATA[ios audio recorder]]></title>
+    <link href="http://qtao.com//blog/2012/10/23/ios-audio-recorder/"/>
+    <updated>2012-10-23T03:15:00+08:00</updated>
+    <id>http://qtao.com//blog/2012/10/23/ios-audio-recorder</id>
+    <content type="html"><![CDATA[<p><a href="http://mobileorchard.com/tutorial-detecting-when-a-user-blows-into-the-mic/">参考</a></p>
+]]></content>
+  </entry>
   
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/10/23/ios-audio-recorder/">Ios Audio Recorder</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-10-23T03:15:00+08:00" pubdate data-updated="true">Oct 23<span>rd</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><a href="http://mobileorchard.com/tutorial-detecting-when-a-user-blows-into-the-mic/">参考</a></p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/10/20/how-to-use-nslogger/">用NSLogger代替NSLog输出调试信息</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-10-20T22:03:00+08:00" pubdate data-updated="true">Oct 20<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h2>安装</h2>
+  <entry>
+    <title type="html"><![CDATA[用NSLogger代替NSLog输出调试信息]]></title>
+    <link href="http://qtao.com//blog/2012/10/20/how-to-use-nslogger/"/>
+    <updated>2012-10-20T22:03:00+08:00</updated>
+    <id>http://qtao.com//blog/2012/10/20/how-to-use-nslogger</id>
+    <content type="html"><![CDATA[<h2>安装</h2>
 
 <p>NSLogger分为两部分，<code>LoggerClient</code>和<code>NSLogger Viewer</code>，你的App需要导入前者，后者是一个独立的mac应用，NSLogger所有的调试信息将输出到这个应用中。</p>
 
@@ -233,7 +76,7 @@ pod 'NSLogger', '1.1'
 $ pod install
 </code></pre>
 
-<p>如果你不了解Pod，可以参考<a href="/blog/2012/10/15/how-to-use-cocoapods/">这里</a></p>
+<p>如果你不了解Pod，可以参考<a href="http://qtao.com//blog/2012/10/15/how-to-use-cocoapods/">这里</a></p>
 
 <h2>编译NSLogger Viewer</h2>
 
@@ -264,42 +107,15 @@ $ pod install
 </code></pre>
 
 <p>这样，你所有使用<code>NSLog</code>的地方将自动被<code>LogMessageF</code>取代。</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/10/19/ios-app-login-by-qq-tencentoauth/">iOS应用使用QQ、新浪微博为第三方登录</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-10-19T01:49:00+08:00" pubdate data-updated="true">Oct 19<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>QQ登录SDK最重要的两个类分别为:<code>TencentOAuth</code>和<code>TencentRequest</code>，前者用于向服务器请求登录，后者用于包含请求信息。目前QQ登录在移动应用还没有采用SSO方式，未来应该会跟进。</p>
+  <entry>
+    <title type="html"><![CDATA[iOS应用使用QQ、新浪微博为第三方登录]]></title>
+    <link href="http://qtao.com//blog/2012/10/19/ios-app-login-by-qq-tencentoauth/"/>
+    <updated>2012-10-19T01:49:00+08:00</updated>
+    <id>http://qtao.com//blog/2012/10/19/ios-app-login-by-qq-tencentoauth</id>
+    <content type="html"><![CDATA[<p>QQ登录SDK最重要的两个类分别为:<code>TencentOAuth</code>和<code>TencentRequest</code>，前者用于向服务器请求登录，后者用于包含请求信息。目前QQ登录在移动应用还没有采用SSO方式，未来应该会跟进。</p>
 
 <p>在<code>ControllerView</code>类中声明一个类型为<code>TencentOAuth</code>的实例变量，并在<code>- (void)viewDidLoad</code>方法中初始化：</p>
 
@@ -341,42 +157,15 @@ $ pod install
 </code></pre>
 
 <p>待续&#8230;</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/10/17/my-the-most-commonly-used-git-commands/">我最常用的git命令</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-10-17T12:43:00+08:00" pubdate data-updated="true">Oct 17<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h2>文件管理</h2>
+  <entry>
+    <title type="html"><![CDATA[我最常用的git命令]]></title>
+    <link href="http://qtao.com//blog/2012/10/17/my-the-most-commonly-used-git-commands/"/>
+    <updated>2012-10-17T12:43:00+08:00</updated>
+    <id>http://qtao.com//blog/2012/10/17/my-the-most-commonly-used-git-commands</id>
+    <content type="html"><![CDATA[<h2>文件管理</h2>
 
 <p>添加新增文件或已修改文件到暂存</p>
 
@@ -441,44 +230,17 @@ $ git remote set-url origin git@github.com:username/jekyll
 </code></pre>
 
 <blockquote><p>边学边用边记，持续更新中&#8230;</p></blockquote>
-</div>
+]]></content>
+  </entry>
   
-  
+  <entry>
+    <title type="html"><![CDATA[如何编写一个CocoaPods的spec文件]]></title>
+    <link href="http://qtao.com//blog/2012/10/16/how-to-create-a-cocoapods-spec-file/"/>
+    <updated>2012-10-16T19:04:00+08:00</updated>
+    <id>http://qtao.com//blog/2012/10/16/how-to-create-a-cocoapods-spec-file</id>
+    <content type="html"><![CDATA[<h2>CocoaPods命令介绍</h2>
 
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/10/16/how-to-create-a-cocoapods-spec-file/">如何编写一个CocoaPods的spec文件</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-10-16T19:04:00+08:00" pubdate data-updated="true">Oct 16<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h2>CocoaPods命令介绍</h2>
-
-<p>在<a href="/blog/2012/10/15/how-to-use-cocoapods/">上一篇文章</a>中，已经介绍过CocoaPods的几条基本命令。<code>pod setup</code>用于初始化本地第三方库的Spec描述文件，所有的spec文件存都存放在<code>~/.cocoapods</code>目录中。<code>pod install</code>用来安装或删除<code>Podfile</code>文件声明中的第三方依赖库。下面继续介绍其它一些命令。</p>
+<p>在<a href="http://qtao.com//blog/2012/10/15/how-to-use-cocoapods/">上一篇文章</a>中，已经介绍过CocoaPods的几条基本命令。<code>pod setup</code>用于初始化本地第三方库的Spec描述文件，所有的spec文件存都存放在<code>~/.cocoapods</code>目录中。<code>pod install</code>用来安装或删除<code>Podfile</code>文件声明中的第三方依赖库。下面继续介绍其它一些命令。</p>
 
 <pre><code>$ pod list
 # 列出所有可用的第三方库
@@ -629,42 +391,15 @@ $ cp weibo_ios_sdk_sso-oauth.podspec ~/.cocoapods/master/weibo_ios_sdk_sso-oauth
 <p>保存文件，并用<code>pod install</code>安装weibo_ios_sdk_sso-oauth库。</p>
 
 <p>转载请注明原作者</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/10/15/how-to-use-octopress/">使用Octopress + Github管理blog</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-10-15T02:44:00+08:00" pubdate data-updated="true">Oct 15<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h2>准备</h2>
+  <entry>
+    <title type="html"><![CDATA[使用Octopress + github管理blog]]></title>
+    <link href="http://qtao.com//blog/2012/10/15/how-to-use-octopress/"/>
+    <updated>2012-10-15T02:44:00+08:00</updated>
+    <id>http://qtao.com//blog/2012/10/15/how-to-use-octopress</id>
+    <content type="html"><![CDATA[<h2>准备</h2>
 
 <p>用Octopress来管理blog是要点耐心的，我就有几次想要放弃，因为涉及的概念很多。当然对于头上顶着hacker这个词的人，再难的困难都能克服。</p>
 
@@ -859,42 +594,15 @@ $ git push origin site
 <p><a href="http://rogerdudler.github.com/git-guide/index.zh.html">git简易指南</a></p>
 
 <p><a href="http://kyle.xlau.org/posts/blogging-like-a-hacker.html">像黑客一样写博客</a></p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/10/15/how-to-use-cocoapods/">使用CocoaPods管理iOS的第三方类库</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-10-15T02:44:00+08:00" pubdate data-updated="true">Oct 15<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>iOS第三方类库的管理是一个很麻烦的事，项目信赖的类库和版本很难控制。让<a href="https://github.com/CocoaPods/CocoaPods">CocoaPods</a> 来帮帮我们吧。</p>
+  <entry>
+    <title type="html"><![CDATA[使用CocoaPods管理iOS的第三方类库]]></title>
+    <link href="http://qtao.com//blog/2012/10/15/how-to-use-cocoapods/"/>
+    <updated>2012-10-15T02:44:00+08:00</updated>
+    <id>http://qtao.com//blog/2012/10/15/how-to-use-cocoapods</id>
+    <content type="html"><![CDATA[<p>iOS第三方类库的管理是一个很麻烦的事，项目信赖的类库和版本很难控制。让<a href="https://github.com/CocoaPods/CocoaPods">CocoaPods</a> 来帮帮我们吧。</p>
 
 <h2>安装</h2>
 
@@ -976,75 +684,7 @@ $ pod setup
 <p>  不要更改这个文件的内容。如果要添加或者删除代码库，在Podfile文件里增加或删除pod声明就可以了。现在第三方库管理起来是不是方便多了呢？</p></li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2013/02/23/cocos2d-v2-dot-0-source/">cocos2d v2.0源码分析</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/10/26/expressjs-mongoose/">expressjs及mongoose入门</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/10/23/ios-audio-recorder/">ios audio recorder</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/10/20/how-to-use-nslogger/">用NSLogger代替NSLog输出调试信息</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/10/19/ios-app-login-by-qq-tencentoauth/">iOS应用使用QQ、新浪微博为第三方登录</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Tao -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-
-
-
-
-</body>
-</html>
+</feed>
